@@ -1,3 +1,0 @@
-package non
-func non(){
-}
